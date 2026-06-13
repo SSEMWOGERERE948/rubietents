@@ -24,9 +24,9 @@ export function Footer() {
         <div>
           <h3 className="font-bold">Contact</h3>
           <div className="mt-4 grid gap-3 text-sm text-white/70">
-            <p className="flex gap-2"><Phone size={16} /> +256 XXX XXX XXX</p>
-            <p className="flex gap-2"><Mail size={16} /> info@rubietents.com</p>
-            <p className="flex gap-2"><MapPin size={16} /> Kampala, Uganda</p>
+            <p className="flex gap-2"><Phone size={16} /> +256 774 831 231</p>
+            <p className="flex gap-2"><Mail size={16} /> rubietentsstructures@gmail.com</p>
+            <p className="flex gap-2"><MapPin size={16} /> Kisekka,Kampala, Uganda</p>
             <div className="flex gap-3 pt-2">
               <Facebook size={18} />
               <Instagram size={18} />

@@ -5,6 +5,7 @@ const links = [
   { href: "#products", label: "Products" },
   { href: "#services", label: "Services" },
   { href: "#industries", label: "Industries" },
+  { href: "#gallery", label: "Gallery" },
   { href: "#contact", label: "Contact" },
 ];
 
@@ -16,6 +17,7 @@ export function Navbar() {
           <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-brand text-lg font-black text-white">
             RT
           </div>
+
           <div>
             <p className="text-base font-black leading-none text-brand-ink">
               Rubie Tents
